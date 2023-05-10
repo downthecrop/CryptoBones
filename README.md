@@ -23,7 +23,7 @@ Clone this repository.
 
 - Place your layer images in separate folders within a main folder. The script currently expects two types of layers: front layers and back layers.
 
-- Update the directory, front_categories, and back_categories variables in the Python script to match your folder structure.
+- Update the nft_collection_name, front_categories, and back_categories variables in the Python script to match your folder structure.
 
 Run the Python script:
 
