@@ -1,6 +1,6 @@
 # NFT Art Generator
 
-![](https://i.imgur.com/mpP72ho.gif)
+![](./promo.gif)
 
 This project provides a Python script to generate unique NFT (Non-fungible token) art by combining different layers of images. It's especially useful for creating generative art for NFT projects where each piece has a unique combination of traits.
 
